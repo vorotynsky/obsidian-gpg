@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-gpg",
+	"name": "Obsidian GPG encryption",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This plugin allows to create embedded gpg-encrypted blocks.",
+	"author": "Maxim Vorotynsky",
+	"authorUrl": "https://github.com/vorotynsky",
+	"isDesktopOnly": true
+}
