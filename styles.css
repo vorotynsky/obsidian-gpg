@@ -4,3 +4,16 @@ This CSS file will be included with a plugin, and
 available in the app when your plugin is enabled.
 
 */
+
+.secret-gpg > .copy-code-button {
+	display: none !important;
+}
+
+.secret-gpg {
+	text-align: center;
+	user-select: none;
+}
+
+.secret-gpg:hover {
+	background: var(--background-secondary-alt);
+}
